@@ -3,7 +3,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 Currently pursuing my omputer Science BSc at [Cairo University](https://fcai.cu.edu.eg/);
+- 🔭 Currently pursuing my computer science BSc at [Cairo University](https://fcai.cu.edu.eg/);
 - 🌱 Studing for Google Data Analytics Cert;
 - 🤖 Take a look at my [Kaggle](https://kaggle.com/mu6tf2/) Profile
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/mu57f4/). Let's chat! 😊;
