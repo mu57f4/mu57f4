@@ -1,16 +1,15 @@
-### Hi there 👋
+## 🌐 Welcome to my corner of the WWW
+### Hey👋 I'm Mustafa, aspiring to become a data scientist. 
 
-<!--
-**mu57f4/mu57f4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Here are some ideas to get you started: -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently pursuing my omputer Science BSc at [Cairo University](https://fcai.cu.edu.eg/);
+- 🌱 Studing for Google Data Analytics Cert;
+- 🤖 Take a look at my [Kaggle](https://kaggle.com/mu6tf2/) Profile
+- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/mu57f4/). Let's chat! 😊;
+### My Projects
+<!-- BLOG-POST-LIST:START -->
+- [Udemy Course Recommender System](https://certifriedit.com/what-is-infrastructure-as-code-iac/)
+- [Software Engineering Data Analysis](https://certifriedit.com/ctf-collection-vol-1-tryhackme-writeup/)
+- [BallTrix Game Reverse Engineering](https://certifriedit.com/picoctf-walkthrough-1-16/)
+<!-- BLOG-POST-LIST:END -->
