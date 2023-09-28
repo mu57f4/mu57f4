@@ -9,7 +9,7 @@
 - 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/mu57f4/). Let's chat! 😊;
 ### My Projects
 <!-- BLOG-POST-LIST:START -->
-- [Udemy Course Recommender System](https://certifriedit.com/what-is-infrastructure-as-code-iac/)
-- [Software Engineering Data Analysis](https://certifriedit.com/ctf-collection-vol-1-tryhackme-writeup/)
-- [BallTrix Game Reverse Engineering](https://certifriedit.com/picoctf-walkthrough-1-16/)
+- [Udemy Course Recommender System](https://github.com/mu57f4/Course-Recommandation-System)
+- [Software Engineering Data Analysis](https://github.com/mu57f4/software_midterm_data_analysis)
+- [BallTrix Game Reverse Engineering](https://github.com/mu57f4/BallTrix_Reverse_Engineering)
 <!-- BLOG-POST-LIST:END -->
