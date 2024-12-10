@@ -1,5 +1,6 @@
 ## 🌐 Welcome to my corner of the WWW
-### Hey👋 I'm Mustafa, aspiring to become a Computer Vision Engineer.
+### Hey👋 I'm Mustafa.
+<!-- I'm doing NLP stuff. -->
 
 <!-- Here are some ideas to get you started: -->
 
